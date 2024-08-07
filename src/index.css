@@ -3,9 +3,7 @@
 @tailwind utilities;
 
 
-.anubhavv {
-    border-radius: 50%;
-  }
+
 
 .active {
     color: rgb(56 189 248);

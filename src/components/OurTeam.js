@@ -1,4 +1,4 @@
-import anubhav from '../components/assets/images/anubhav.jpg'
+
 
 const OurTeam = () => {
   const teamMenbers = [
